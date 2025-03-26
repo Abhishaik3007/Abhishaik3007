@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Abhishek Kumar
+# Hi there! I'm Abhishek Kumar
 
 - 🎓 3rd-year B.Tech CSE undergraduate  
 - 👀 Interested in App Development (Flutter, Kotlin) & Game Development (Pygame, Tkinter)  
